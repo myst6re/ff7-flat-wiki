@@ -216,6 +216,8 @@ Starts with AKAO header
 
 4 Bytes NULL
 
+On PlayStation, the Section 28 contains vibration instructions.
+
 ### Section 29: World map "water block"
 
 Section 29 is a duplicate segment from "full" water block (not segment!) used in world map (wmx.obj).
